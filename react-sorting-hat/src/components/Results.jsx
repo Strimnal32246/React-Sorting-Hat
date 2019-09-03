@@ -1,8 +1,8 @@
 import React from "react";
-import gryffindor from "
-import ravenclaw from "../img/ravenclaw.png";
-import slytherin from "../img/slytherin.png";
-import hufflepuff from "../img/hufflepuff.png";
+import gryffindor from "../../../Imgs/Gryffindor.jpeg";
+import ravenclaw from "../../../Imgs/ravenclaw.jpeg";
+import slytherin from "../../../Imgs/slytherin.jpg";
+import hufflepuff from "../../../Imgs/hufflepuff.jpeg";
 
 const Results = props => {
   return (
