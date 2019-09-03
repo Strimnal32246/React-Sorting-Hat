@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import Quiz from "./components/Quiz.jsx";
 import Results from "./components/Results.jsx";
-import greathall from "./img/greathall.jpg";
+
 
 function mode(array) {
   if (array.length === 0) return null;
@@ -106,7 +106,6 @@ class App extends Component {
       <div className="App">
         <div className="container">
           <header>
-            <img className="banner" src={greathall}></img>
           </header>
           <div>
             <div className="blurb">
