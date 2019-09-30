@@ -1,0 +1,8 @@
+{
+  "name": "Hogarts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Strimnal32246/React-Sorting-Hat.git",
+  "author": "strimnal32246 <susan.trimnal@icdccollege.edu>",
+  "license": "MIT"
+}
